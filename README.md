@@ -8,3 +8,5 @@ My journey learning Data Structures and Algorithms through LeetCode
 
 [1351 - Count of Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/submissions/2176334310/)
 
+[88 - Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/2177334982/)
+

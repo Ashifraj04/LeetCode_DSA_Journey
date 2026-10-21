@@ -10,3 +10,5 @@ My journey learning Data Structures and Algorithms through LeetCode
 
 [88 - Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/2177334982/)
 
+[977 - Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2177638588/)
+

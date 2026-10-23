@@ -13,3 +13,5 @@ My journey learning Data Structures and Algorithms through LeetCode
 [977 - Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2177638588/)
 
 [268 - Missing Number](https://leetcode.com/problems/missing-number/submissions/2179862342/)
+
+[136 - Single Number](https://leetcode.com/problems/single-number/submissions/2179900801/)

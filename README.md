@@ -18,3 +18,5 @@ My journey learning Data Structures and Algorithms through LeetCode
 
 [3158 - Find the XOR of Numbers Which
 Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/submissions/2179927678/)
+
+[1710 - Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/submissions/2192926893/)
